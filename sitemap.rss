@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>-</title>
+    <link>https://meetshah15.github.io</link>
+    <description />
+    <item>
+      <guid>https://meetshah15.github.io/</guid>
+      <title>Meet Shah — Software Engineer &amp; Freelancer</title>
+      <link>https://meetshah15.github.io/</link>
+      <description>I'm Meet Shah, student @Caregie Mellong University pursuing my masters in information systems. I like working/exploring/playing with SAAS products, resolving design problems, create smart user interfaces and ship simple features that make an impact</description>
+      <pubDate>Tue, 21 Sep 2021 01:26:15 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://meetshah15.github.io/images/MeetResume.pdf</guid>
+      <title />
+      <link>https://meetshah15.github.io/images/MeetResume.pdf</link>
+      <description />
+      <pubDate>Tue, 21 Sep 2021 01:26:15 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://meetshah15.github.io</guid>
+      <title>Meet Shah — Software Engineer &amp; Freelancer</title>
+      <link>https://meetshah15.github.io</link>
+      <description>I'm Meet Shah, student @Caregie Mellong University pursuing my masters in information systems. I like working/exploring/playing with SAAS products, resolving design problems, create smart user interfaces and ship simple features that make an impact</description>
+      <pubDate>Tue, 21 Sep 2021 01:26:15 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://meetshah15.github.io/images/icons/chevron-down.svg</guid>
+      <title />
+      <link>https://meetshah15.github.io/images/icons/chevron-down.svg</link>
+      <description />
+      <pubDate>Tue, 21 Sep 2021 01:26:15 Z</pubDate>
+    </item>
+  </channel>
+</rss>
